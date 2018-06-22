@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HR_CRM</string>
+
+    <string name="candidates">Candidates</string>
+    <string name="exit">Exit</string>
+    <string name="interview">Interview</string>
+    <string name="request">Requests from HoD</string>
+    <string name="vacancies">Vacancies</string>
+
+    <!--templates-->
+    <string name="email">firstname.lastname@zensoft.io</string>
+    <string name="name">Firstname Lastname</string>
+</resources>
