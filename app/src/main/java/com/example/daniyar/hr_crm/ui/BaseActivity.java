@@ -45,6 +45,7 @@ public abstract class BaseActivity extends AppCompatActivity implements Drawer.O
         }
     }
 
+
     private void setToolbarTitle(String title){
         if(getSupportActionBar() != null){
             getSupportActionBar().setTitle(title);
